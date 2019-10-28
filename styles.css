@@ -1,0 +1,10 @@
+.ciao{
+    height: 900px;
+    width: 100%;
+    border: 20px solid red;
+    display: flex;
+    justify-content: center;
+    color: darkred;
+    font: 100px bold ;
+    align-items: center;
+}
